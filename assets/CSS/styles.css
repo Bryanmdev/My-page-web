@@ -452,4 +452,11 @@ box-shadow: 0px 0px 10px 2px var(--secundary-color);
     body {
         font-size: 1.4rem;
     }*/
+
+    .menu ul li a:hover {
+        background: var(--secundary-color);
+        color: var(--white-color);
+        left: 0;
+        transition: none;
+        border-radius: 1rem;
 }
