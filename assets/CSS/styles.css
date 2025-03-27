@@ -466,10 +466,40 @@ box-shadow: 0px 0px 10px 2px var(--secundary-color);
         font-size: 1.4rem;
     }*/
 
+    h1 {
+        font-size: 4rem;
+    }
+
+    h2 {
+        font-size:4rem ;
+    }
+
+    h3 {
+        font-size: 3rem;
+    }
+
+    h4 {
+        font-size: 2.5rem;
+    }
+
+    h5 {
+        font-size: 2rem;
+    }
+
+    h6 {
+        font-size: 1.8rem
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+    
     .menu ul li a:hover {
         background: var(--secundary-color);
         color: var(--white-color);
         left: 0;
         transition: none;
         border-radius: 1rem;
+
 }
