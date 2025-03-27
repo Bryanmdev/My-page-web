@@ -112,7 +112,7 @@ tfoot td, table th {
 }
 
 .main-content{
-max-width: 120rem;
+max-width: 85rem;
 margin: 0 auto;
 padding: 10rem var(--gap);
 }
